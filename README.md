@@ -1,6 +1,6 @@
 # Student Record Management System
 
-## Mini Project – II
+## Mini Project 
 
 A menu-driven Student Record Management System developed in C using a singly linked list, dynamic memory allocation, modular programming, searching, sorting, and file handling.
 
